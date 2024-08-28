@@ -1,2 +1,3 @@
-## LA: Lista de Adjacência
-# MA: Martriz de Adjacência
+LA: Lista de Adjacências
+
+MA: Matriz de Adjacências
