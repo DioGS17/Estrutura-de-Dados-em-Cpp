@@ -1,2 +1,2 @@
-# LA: Lista de Adjacência
+## LA: Lista de Adjacência
 # MA: Martriz de Adjacência
